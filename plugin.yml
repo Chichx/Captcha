@@ -1,0 +1,7 @@
+name: Captcha
+version: 1.0
+author: Gaston
+main: dev.gaston.captcha.Captcha
+softdepend: [AuthMe]
+commands:
+  captcha:

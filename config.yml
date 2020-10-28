@@ -1,0 +1,23 @@
+#               Captcha                            #
+# Any suggestion/error sends message to twitter    #
+#  The illegal sale of this plugin is prohibite    #
+#           Created by Gaston#0001                 #
+# helydev.com/discord or invite.gg/helydevelopment #
+
+# *Kick / time put in seconds *
+Kick:
+  time: 15
+  kick: true
+  msg: "&cFailed the verification."
+
+# *Gui *
+Gui:
+  name: "Select the %block%"
+  correct: "&aClick here!"
+  incorrect: "&cDon't click here"
+
+# *Messages *
+Messages:
+  authentication: "&eYou were successfully identified!"
+  reload: "&eConfiguration reload"
+  perms: "&cYou don't have permission to execute this command."
